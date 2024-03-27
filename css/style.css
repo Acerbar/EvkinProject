@@ -247,7 +247,7 @@ header {
   bottom: -8px;
 }
 
-.burger__nav {
+.burger__ {
   display: block;
   text-align: center;
   width: 100vw;
@@ -459,10 +459,10 @@ nav {
   }
 
   nav {
+    width: 100%;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 2% 3%;
   }
 
   .nav__list {
@@ -472,10 +472,6 @@ nav {
   .container {
     width: 100%;
     padding: 0;
-  }
-
-  nav {
-    width: 100%;
   }
 }
 
